@@ -1,14 +1,14 @@
 ## Type of change
 
-<!--- What type of change does your code introduce? Put an `x` in the box: -->
+<!--- What kind of changes,  Put an `x` in the box: -->
 
--   [ ] Bug fix
--   [ ] Feature
--   [ ] Config change
+-   [ ] fix
+-   [ ] New Feature
+-   [ ] Some Adhoc change
 
-## Changes
-* 
+## what Changes
 
-<!--- Summarize your changes -->
 
-## Screenshots (if any)
+<!--- Details of your changes -->
+
+## Attachments (if any)
